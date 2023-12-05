@@ -1,7 +1,7 @@
 ## Hello! Welcome to my GitHub 🖥️
 - 😎 My name is Murilo
 - 🇧🇷 I'm Brazilian 🇧🇷
-- 🧑‍💻 I'm junior fullstack dev
+- 🧑‍💻 I'm a fullstack dev
 - 🔎 Always looking to learn more
 
 <div align="center">
